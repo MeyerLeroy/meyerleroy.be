@@ -1,11 +1,12 @@
+
+
 body {
-  margin: 0%;
-  background-color: #003920;
+ background-image: url("Star Trek Plato.png");
+  background-size: auto;
 }
 
-
-
 #font {
+    text-decoration: "none";
     color: white;
     font-size: 25px;
     font-family: 'Dauphine Regular';
@@ -18,11 +19,12 @@ body {
     }
     @font-face {font-family: 'Dauphine regular';
     src: url('Dauphine Regular.otf');
+
     }
 
 #font2 {
     color: white;
-    font-size: 13px;
+    font-size: 15px;
     font-family: serif;
     line-height: 9mm;
     margin: 0;
@@ -31,6 +33,4 @@ body {
     left: 1%;
     }
 
- a:link {
-   color: inherit;
-}
+ a { color: white }
