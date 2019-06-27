@@ -1,0 +1,36 @@
+body {
+  margin: 0%;
+  background-color: #003920;
+}
+
+
+
+#font {
+    color: white;
+    font-size: 25px;
+    font-family: 'Dauphine Regular';
+    line-height: 9mm;
+    margin: 0;
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+    @font-face {font-family: 'Dauphine regular';
+    src: url('Dauphine Regular.otf');
+    }
+
+#font2 {
+    color: white;
+    font-size: 13px;
+    font-family: serif;
+    line-height: 9mm;
+    margin: 0;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    }
+
+ a:link {
+   color: inherit;
+}
